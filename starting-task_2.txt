@@ -11,6 +11,6 @@ Framework PHP
 - CodeIgniter
 - Vue
 Framework Javascript
-- Vue
+- Angular
 - React
 
