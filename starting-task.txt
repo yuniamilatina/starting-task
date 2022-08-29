@@ -1,0 +1,5 @@
+For practice only
+- how to make repo
+- how to make file
+- how to make discussion forum
+- how to use github and git
