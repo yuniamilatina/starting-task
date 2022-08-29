@@ -4,3 +4,5 @@ For practice only
 - how to make discussion forum
 - how to use github and git
 - add something new in project
+- how to make fork
+- knowing duplicate
