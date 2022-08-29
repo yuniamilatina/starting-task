@@ -6,4 +6,6 @@ Read
 - Machine Learning
 - Tableu and Talend
 - Algorithm
-Fundamental Data Structure
+Framework Javascript
+- Angular
+- React
