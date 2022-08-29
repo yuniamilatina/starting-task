@@ -7,3 +7,9 @@ Read
 - Tableu and Talend
 - Algorithm
 Fundamental Data Structure
+Framework PHP
+- Laravel 
+- CodeIgniter
+Framework Javascript
+- Vue
+- React
