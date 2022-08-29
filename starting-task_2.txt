@@ -4,5 +4,5 @@ GITHUB
 Read 
 - Data Mining
 - Machine Learning
-- SAP Module
-- ERP
+- Tableu and Talend
+- Algorithm
