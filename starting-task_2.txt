@@ -6,11 +6,9 @@ Read
 - Machine Learning
 - Tableu and Talend
 - Algorithm
-Fundamental Data Structure
 Framework PHP
 - CodeIgniter
-- Vue
 Framework Javascript
 - Angular
 - React
-
+- Vue
