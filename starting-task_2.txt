@@ -8,8 +8,9 @@ Read
 - Algorithm
 Fundamental Data Structure
 Framework PHP
-- Laravel 
 - CodeIgniter
+- Vue
 Framework Javascript
 - Vue
 - React
+
