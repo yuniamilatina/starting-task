@@ -3,4 +3,4 @@ For practice only
 - how to make file
 - how to make discussion forum
 - how to use github and git
-- collaboration with others
+- add something new in project
