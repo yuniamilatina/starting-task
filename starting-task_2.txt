@@ -7,6 +7,8 @@ Read
 - Tableu and Talend
 - Algorithm
 Framework PHP
-- Laravel 
 - CodeIgniter
-System Development
+Framework Javascript
+- Angular
+- React
+- Vue
